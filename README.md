@@ -1,3 +1,3 @@
 # gittest
 branch
-master
+master & feature1
